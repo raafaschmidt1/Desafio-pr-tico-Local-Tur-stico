@@ -1,0 +1,101 @@
+body{
+    justify-self: center;
+    height: 3054px;
+    width: 1120px;
+    background-color: #d9d9d9;
+}
+.container{
+    background-color: #f5f4f0;
+}
+.headline{
+    color: #E1624F;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+.title-h1{
+    font-family: "Open Sans", sans-serif;
+    font-size: 36px;
+}
+
+.title-list{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.title-h2{
+    font-family: "Open Sans", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.paragraph{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+
+}
+
+.image{
+    height: 350px;
+    width: 1120px;
+    border-radius: 28px;
+}
+
+.title-h3{
+    font-family: "Open Sans", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.texto{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.bold{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.blue{
+    color: #0C51A7;
+}
+.purple{
+    color: #591B98;
+}
+.pink{
+    color: #E5245E;
+}
+.orange{
+    color: #E95E10;
+}
+
+.image-busan{
+    height: 660px;
+    width: 1120px;
+    border-radius: 28px;
+}
+.description{
+    margin-top: 20px;
+    text-align: center;
+}
+footer{
+    font-family: "Alice", serif;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 50px;
+}
+.margin-bottom{
+    margin-bottom: 25px;
+}
+li>p{
+    margin: 2px;
+}
+
